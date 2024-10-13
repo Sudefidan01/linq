@@ -1,0 +1,8 @@
+C:\Users\pcc\source\repos\20230827_Linq\20230827_Linq\bin\Debug\20230827_Linq.exe.config
+C:\Users\pcc\source\repos\20230827_Linq\20230827_Linq\bin\Debug\20230827_Linq.exe
+C:\Users\pcc\source\repos\20230827_Linq\20230827_Linq\bin\Debug\20230827_Linq.pdb
+C:\Users\pcc\source\repos\20230827_Linq\20230827_Linq\obj\Debug\20230827_Linq.csproj.AssemblyReference.cache
+C:\Users\pcc\source\repos\20230827_Linq\20230827_Linq\obj\Debug\20230827_Linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\pcc\source\repos\20230827_Linq\20230827_Linq\obj\Debug\20230827_Linq.csproj.CoreCompileInputs.cache
+C:\Users\pcc\source\repos\20230827_Linq\20230827_Linq\obj\Debug\20230827_Linq.exe
+C:\Users\pcc\source\repos\20230827_Linq\20230827_Linq\obj\Debug\20230827_Linq.pdb
